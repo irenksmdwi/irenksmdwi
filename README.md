@@ -1,13 +1,15 @@
-<h1 align="center">Hi 👋, I'm Irena Kusuma Dewi</h1>
+![image](https://github.com/irenksmdwi/irenksmdwi/assets/147590408/fa682537-a368-4da4-bea4-8a5ae11c19d9)<h1 align="center">Hi 👋, I'm Irena Kusuma Dewi</h1>
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 <h3 align="center">Passionate Front-End and UI/UX from Indonesia</h3>
 
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **React Js and all new things**
 
 - 💬 Ask me about **React js, Yii**
 
 - 📫 How to reach me **irenakusumadewi9@gmail.com**
+
+- ⚡ Fun fact **Even though my background is in IT, I also like writing activities and composing beautiful words**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
